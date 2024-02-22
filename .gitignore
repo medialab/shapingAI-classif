@@ -3,6 +3,7 @@
 
 # CSV files
 *.csv
+*.csv.gz
 
 # Python version
 .python-version
